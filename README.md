@@ -8,6 +8,8 @@
 > A Python notebook that combines an **AI model (Ollama)** with **live tools/data** via a Gradio MCP server.  
 > Chat with the AI, let it call tools automatically, and get smart answers — all from a single notebook cell.
 
+> Inspired by MCP CLient described here: https://medium.com/@jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-a10e186a560f
+
 ---
 
 ## ✨ Features
