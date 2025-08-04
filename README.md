@@ -33,9 +33,8 @@ Ollama server (with your chosen model downloaded, e.g., llama3.1:8b)
 Gradio MCP server, e.g., http://localhost:7860/gradio_api/mcp/sse
 3️⃣ Open the notebook Copy the big code cell provided.
 4️⃣ Run it & chat
-text
-CopyEdit
-What would you like to know? (or type 'quit' to exit): 
+
+Initially prompted: What would you like to know? (or type 'quit' to exit): 
 
 Type questions → get answers! Type quit to stop.
 
