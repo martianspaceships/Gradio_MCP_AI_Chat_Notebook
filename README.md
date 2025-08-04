@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/)
 
-> A Python notebook that combines an **AI model (Ollama)** with **live tools/data** via a Gradio MCP server.  
+> A Jupyter notebook ready cell that combines an **AI model (Ollama)** with **live tools/data** via a Gradio MCP server.  
 > Chat with the AI, let it call tools automatically, and get smart answers — all from a single notebook cell.
 
 > Inspired by MCP CLient described here: https://medium.com/@jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-a10e186a560f
